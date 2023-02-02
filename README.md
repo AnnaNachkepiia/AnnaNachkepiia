@@ -1,10 +1,19 @@
-### Hi there 👋
+### Привет 👋
+
+## Меня зовут Аня, я начинающий веб-разработчик!
+
+- 👩🏼‍🎓 Выпускница Яндекс.Практикума
+- 🌱 Прохожу курс по JS на Udemy, чтобы закрепить и углубить знания
+- 👯 Хочу работать в компании мечты и проявить себя на 100%
+
+# Связаться со мной
+-:iphone: телеграм: @AnaNachkepiya
+-:telephone_receiver: +7 911 004 8644
+-:email: anna.nachkepiia@gmail.com
+-:globe_with_meridians: https://nachkepia.movies-explorer.nomoredomains.icu
+
 
 <!--
-**AnnaNachkepiia/AnnaNachkepiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
