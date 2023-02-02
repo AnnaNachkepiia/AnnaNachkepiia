@@ -7,10 +7,10 @@
 - 👯 Хочу работать в компании мечты и проявить себя на 100%
 
 # Связаться со мной
--:iphone: телеграм: @AnaNachkepiya
--:telephone_receiver: +7 911 004 8644
--:email: anna.nachkepiia@gmail.com
--:globe_with_meridians: https://nachkepia.movies-explorer.nomoredomains.icu
+- :iphone: телеграм: @AnaNachkepiya
+- :telephone_receiver: +7 911 004 8644
+- :email: anna.nachkepiia@gmail.com
+- :globe_with_meridians: https://nachkepia.movies-explorer.nomoredomains.icu
 
 
 <!--
